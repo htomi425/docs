@@ -2,7 +2,7 @@
 description: Learn how to mount your device's internal storage.
 ---
 
-# Internal Storage 📂
+# 内部ストレージ 📂
 
 ![](../.gitbook/assets/sd_banner%20%281%29.png)
 

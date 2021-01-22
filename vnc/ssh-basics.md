@@ -2,7 +2,7 @@
 description: "Having problems setting up SSH to Android? Say no more. \U0001F680"
 ---
 
-# SSH Basics 👩‍💻
+# SSHの基本 👩‍💻
 
 ![](../.gitbook/assets/ssh_banner.png)
 

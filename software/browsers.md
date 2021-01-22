@@ -2,7 +2,7 @@
 description: "Where the web lives...\U0001F30D"
 ---
 
-# Browsers
+# ブラウザー
 
 ![](../.gitbook/assets/firefox_banner.png)
 

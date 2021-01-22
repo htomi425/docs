@@ -2,7 +2,7 @@
 description: XSDL seems confusing?? Its really not
 ---
 
-# XSDL Basics
+# XSDLの基本
 
 It is X Window System / X11 server for Android. X11 servers are generally more faster when compared to VNC but XSDL lacks the beautiful UI which VNC Viewer has. It comes to your choice and what suits you the most amongst VNC and XSDL.
 

@@ -2,7 +2,7 @@
 description: Umm... Let's dive a bit more deeper.
 ---
 
-# Where to begin? 🤷‍♀️
+# 何から始めればいいの？ 🤷‍♀️
 
 ![](../.gitbook/assets/what_banner.png)
 

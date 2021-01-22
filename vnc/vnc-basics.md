@@ -2,7 +2,7 @@
 description: "Confused about VNC? We got you covered here. \U0001F60E"
 ---
 
-# VNC Basics 📱
+# VNCの基本 📱
 
 ![](../.gitbook/assets/vnc_banner.png)
 

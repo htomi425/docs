@@ -2,7 +2,7 @@
 description: Andronix Doc Hubへようこそ。ここでは、Andronixをすぐに使いこなせるようにする為の全てを紹介しています。
 ---
 
-# Welcome 😄
+# ようこそ 😄
 
 ![](.gitbook/assets/welcome_banner.png)
 

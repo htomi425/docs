@@ -2,7 +2,7 @@
 description: "Let's rock with the music! \U0001F3B8"
 ---
 
-# Sound 🎵
+# サウンド 🎵
 
 ![](../.gitbook/assets/sound_banner.png)
 

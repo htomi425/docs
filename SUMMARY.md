@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Welcome 😄](README.md)
+* [ようこそ 😄](README.md)
 
-## Introduction
+## はじめに <a id="introduction"></a>
 
-* [Important ⚡](introduction/what-andronix-is-not-capable-of.md)
-* [Where to begin? 🤷‍♀️](introduction/where-to-begin.md)
+* [重要 ⚡](introduction/what-andronix-is-not-capable-of.md)
+* [何から始めればいいの？ 🤷‍♀️](introduction/where-to-begin.md)
 
-## Installation <a id="installations"></a>
+## インストール <a id="installations"></a>
 
 * [Un-Modded OS](installations/non-modded-os/README.md)
   * [Ubuntu](installations/non-modded-os/ubuntu.md)
@@ -23,29 +23,29 @@
   * [Debian XFCE](installations/modded-os/debian-xfce.md)
   * [Ubuntu XFCE](installations/modded-os/ubuntu-xfce.md)
   * [Manjaro XFCE](installations/modded-os/manjaro-xfce.md)
-* [Offline Installation](installations/offline-installtion.md)
+* [オフラインインストール手順](installations/offline-installtion.md)
 
-## Uninstallation
+## アンインストール <a id="uninstallation"></a>
 
-* [Uninstallation 🔴](uninstallation/uninstallation.md)
+* [アンインストール手順](uninstallation/offline-installtion.md)
 
 ## VNC
 
-* [VNC Basics 📱](vnc/vnc-basics.md)
-* [SSH Basics 👩‍💻](vnc/ssh-basics.md)
+* [VNCの基本 📱](vnc/vnc-basics.md)
+* [SSHの基本 👩‍💻](vnc/ssh-basics.md)
 
 ## XSDL
 
-* [XSDL Basics](xsdl/xsdl-basics.md)
+* [XSDLの基本](xsdl/xsdl-basics.md)
 
-## Hardware
+## ハードウェア <a id="hardware"></a>
 
-* [Internal Storage 📂](hardware/internal-storage.md)
-* [Sound 🎵](hardware/sound.md)
+* [内部ストレージ 📂](hardware/internal-storage.md)
+* [サウンド 🎵](hardware/sound.md)
 
-## Software
+## ソフトウェア <a id="software"></a>
 
-* [Browsers](software/browsers.md)
+* [ブラウザー](software/browsers.md)
 * [LibreOffice](software/libreoffice.md)
 * [Blender](software/blender.md)
 * [IDEs](software/ides/README.md)

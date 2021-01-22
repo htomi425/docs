@@ -2,7 +2,7 @@
 description: Please read this page before you start to use anything that Andronix offers.
 ---
 
-# Important ⚡
+# 重要 ⚡
 
 ![](../.gitbook/assets/imp_banner.png)
 
