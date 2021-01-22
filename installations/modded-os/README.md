@@ -11,7 +11,7 @@ description: >-
 
 ## What are Modded OS?
 
-Modded OS are modified by us to achieve the maximum performance and we ship it with all the essential software pre-installed. Themes and icons are selected to match every element of the system. 
+Modded OS are modified by us to achieve the maximum performance and we ship it with all the essential software pre-installed. Themes and icons are selected to match every element of the system.
 
 ## When should I choose Modded OS?
 
@@ -30,7 +30,7 @@ You can take a look at our [Modded OS Gallery](https://andronix.app/modded-os-ga
 
 ## How to install a Modded OS?
 
-You can choose between 4 Modded distributions that Andronix offers. 
+You can choose between 4 Modded distributions that Andronix offers.
 
 These are the following things that need to be done before you're ready to use the distro-
 
@@ -46,12 +46,4 @@ Here's how you can install them
 {% page-ref page="debian-xfce.md" %}
 
 {% page-ref page="manjaro-xfce.md" %}
-
-
-
-
-
-
-
-
 

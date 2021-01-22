@@ -75,12 +75,12 @@ xbps-install openssh nano
 * Once OpenSSH server is installed in your Linux system, we need to modify some things to make it accessible in network escaping Android limitations. Now do:
 
 ```text
-nano /etc/ssh/sshd_config 
+nano /etc/ssh/sshd_config
 ```
 
 * Find and change the line `#Port 22` to `Port 2222` 
 * Find the line `#PermitRootLogin prohibit-password`  or `#PermitRootLogin yes`  and change it to `PermitRootLogin yes` . If it is already `PermitRootLogin yes` then you do not need to change anything.
-* Now when you are done with all the above steps press **CTRL+X**  and then ****type **Y** and then press **Enter**
+* Now when you are done with all the above steps press **CTRL+X**  and then **\*\*type** Y **and then press** Enter\*\*
 * Now do `ssh-keygen -A` and then `ssh-keygen` 
 * Now we need to set password first. To set password type `passwd` and set any password.  
 * Once this process is complete just run `/usr/sbin/sshd` to start the SSH server.

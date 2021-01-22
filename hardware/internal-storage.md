@@ -22,7 +22,7 @@ Once you are done with it type:
 nano start-{distroname}.sh
 ```
 
-Make sure to replace **{distroname}** with your specific distro name. 
+Make sure to replace **{distroname}** with your specific distro name.
 
 Now search for line:
 

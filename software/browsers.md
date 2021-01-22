@@ -76,6 +76,6 @@ apk add chromium
 ### Fedora
 
 ```text
-dnf install chromium 
+dnf install chromium
 ```
 

@@ -8,7 +8,7 @@ description: "Image Manipulation \U0001F5BC? You're in the right place!"
 
 You can install GIMP to fulfil all your image editing needs as follows-
 
-### APT
+## APT
 
 * Just paste this after starting the distro
 
@@ -17,7 +17,7 @@ sudo apt-get update
 sudo apt-get install gimp
 ```
 
-### PACMAN
+## PACMAN
 
 * Just paste this after starting the distro
 
@@ -26,7 +26,7 @@ sudo pacman -Syu
 pacman -Syu gimp
 ```
 
-### YUM \| DNF
+## YUM \| DNF
 
 * Just paste this after starting the distro
 
@@ -34,6 +34,4 @@ pacman -Syu gimp
 sudo dnf update
 sudo dnf install gimp
 ```
-
-
 

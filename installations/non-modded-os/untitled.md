@@ -37,11 +37,11 @@ We recommend to choose **XFCE variant** as it is the most stable, smooth, advanc
 pkg update
 ```
 
-![](../../.gitbook/assets/termux-1.png)
+![](../../.gitbook/assets/termux-1%20%282%29.png)
 
 * Tap & hold anywhere on the screen and press **Paste**.
 * Press **Enter** and wait till the installation completes. 
-* Type the following command to start the distro _\*\*_and press enter.
+* Type the following command to start the distro \_\*\*\_and press enter.
 
 ```text
 ./start-debian.sh

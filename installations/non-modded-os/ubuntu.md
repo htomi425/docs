@@ -29,7 +29,7 @@ above is not the size after installing Ubuntu but it's just the tar size that An
 
 * Select the version you want to install, namely 18.04
 
-![](../../.gitbook/assets/ubuntu_selection.png)
+![](../../.gitbook/assets/ubuntu_selection%20%281%29.png)
 
 * The first three options will install Ubuntu with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The **Non-DE** variant installs Ubuntu 18 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_. The last three options will install Ubuntu with the mentioned [Windows manager](https://en.wikipedia.org/wiki/Window_manager).
 
@@ -62,7 +62,7 @@ pkg update
 * Open the[ Andronix App](https://andronix.app/) and click on the Ubuntu card.
 * Click the **Install** button.
 
-![](../../.gitbook/assets/ubuntu.png)
+![](../../.gitbook/assets/ubuntu%20%281%29.png)
 
 * Select the version you want to install, namely 20.04
 
@@ -82,7 +82,7 @@ We recommend to choose **XFCE variant** as it is the most stable, smooth, advanc
 pkg update
 ```
 
-![](../../.gitbook/assets/termux-1.png)
+![](../../.gitbook/assets/termux-1%20%281%29.png)
 
 * Tap & hold anywhere on the screen and press **Paste**.
 * Press **Enter** and wait till the installation completes.

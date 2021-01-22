@@ -24,5 +24,5 @@ We use **Termux** to provide the command line and the packages that are especial
 
 Yes but no. Andronix is partially open-source. All the free distro tar files and the shell scripts are available on our [GitHub repository](https://github.com/andronixapp). While all the paid things, like the actual Android app and all the files concerning Andronix Modded OS are close-source for obvious reasons.
 
-That doesn't mean that we don't love open-source, **we** ❤**open-source**. In fact if you're a developer or a maintainer of an open-source project, **we will be more than happy to provide you everything for free** for life. Just get-in touch with us and complete the process of verification😊. 
+That doesn't mean that we don't love open-source, **we** ❤**open-source**. In fact if you're a developer or a maintainer of an open-source project, **we will be more than happy to provide you everything for free** for life. Just get-in touch with us and complete the process of verification😊.
 

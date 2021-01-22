@@ -42,13 +42,13 @@ Now change the last line to:
 
 You can change the resolution according to your device and then restart/start the VNC Server.
 
-Once you are done just press `Ctrl+X` and then typen **Y**  and then hit enter.
+Once you are done just press `Ctrl+X` and then typen **Y** and then hit enter.
 
 ## How to change picture quality in VNC
 
 If you are using BVNC then you do not need to make any changes. It will make its required changes itself
 
-If you are using RealVNC Viewer then connect to the VNC Server and then click on **i**  button at the top and then change _**Picture Quality**_  to _High_ or your desired quality.
+If you are using RealVNC Viewer then connect to the VNC Server and then click on **i** button at the top and then change _**Picture Quality**_ to _High_ or your desired quality.
 
 ## How to access VNC Server on other devices
 
@@ -76,7 +76,7 @@ Once you are done with this open a new Termux session and type:
 ip a
 ```
 
-and copy then **WLAN** IP address \(eg. 192.168.xx.xx\). Now use this IP Address on the other device with the port number as 1 \(eg. 192.168.xx.xx:1\).  
+and copy then **WLAN** IP address \(eg. 192.168.xx.xx\). Now use this IP Address on the other device with the port number as 1 \(eg. 192.168.xx.xx:1\).
 
 ### How to change resolution permanantly in Modded OS / Ubuntu 19
 
@@ -94,7 +94,7 @@ LD_PRELOAD=/lib/aarch64-linux-gnu/libgcc_s.so.1 vncserver -localhost no -depth 2
 
 You can change the resolution according to your device and then restart/start the VNC Server.
 
-Once you are done just press `Ctrl+X` and then typen **Y**  and then hit enter.
+Once you are done just press `Ctrl+X` and then typen **Y** and then hit enter.
 
-Now when you'll do just choose the first option i.e. _Start vncserver with autodetect/dynamic resolution_ 
+Now when you'll do just choose the first option i.e. _Start vncserver with autodetect/dynamic resolution_
 

@@ -12,7 +12,7 @@ Blender will only work for very basic animation. Please use this keeping in your
 
 You can install Blender to fulfil all your 3D modelling needs as follows-
 
-### APT
+## APT
 
 * Just paste this after starting the distro
 
@@ -21,7 +21,7 @@ sudo apt-get update
 sudo apt-get install blender
 ```
 
-### PACMAN
+## PACMAN
 
 * Just paste this after starting the distro
 
@@ -32,7 +32,7 @@ sudo pacman -S pacman
 
 If you don't want to build form the AUR, you can use [this ](https://gist.github.com/imprakharshukla/280de1a64c527775025836c15620e6cb)method instead.
 
-### YUM \| DNF
+## YUM \| DNF
 
 * Just paste this after starting the distro
 
