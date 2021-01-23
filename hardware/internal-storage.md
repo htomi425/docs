@@ -1,5 +1,5 @@
 ---
-description: Learn how to mount your device's internal storage.
+description: 内部ストレージをマウントする方法を説明します。
 ---
 
 # 内部ストレージ 📂

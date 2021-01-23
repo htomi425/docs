@@ -1,5 +1,5 @@
 ---
-description: "We know that sometimes Internet can be a real pain, but worry not! \U0001F605"
+description: "インターネット通信したくない状況もあるかもしれませんがご心配なく! \U0001F605"
 ---
 
 # オフラインインストール手順
@@ -9,7 +9,7 @@ description: "We know that sometimes Internet can be a real pain, but worry not!
 ## Instructions
 
 {% hint style="warning" %}
-Offline Installation is only available for Andronix Premium users.
+Andronixプレミアムユーザーはオフラインインストールを使用できます。
 {% endhint %}
 
 Choose any distro and click on **Download Offline** to download the distro.

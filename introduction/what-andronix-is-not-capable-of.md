@@ -1,5 +1,5 @@
 ---
-description: Please read this page before you start to use anything that Andronix offers.
+description: Andronixを使い始める前に、このページをお読みください。
 ---
 
 # 重要 ⚡

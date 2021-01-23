@@ -10,7 +10,7 @@ You can install GIMP to fulfil all your image editing needs as follows-
 
 ## APT
 
-* Just paste this after starting the distro
+* ディストリビューションを起動した後に貼り付けてください
 
 ```text
 sudo apt-get update
@@ -19,7 +19,7 @@ sudo apt-get install gimp
 
 ## PACMAN
 
-* Just paste this after starting the distro
+* ディストリビューションを起動した後に貼り付けてください
 
 ```text
 sudo pacman -Syu
@@ -28,7 +28,7 @@ pacman -Syu gimp
 
 ## YUM \| DNF
 
-* Just paste this after starting the distro
+* ディストリビューションを起動した後に貼り付けてください
 
 ```text
 sudo dnf update

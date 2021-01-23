@@ -1,5 +1,5 @@
 ---
-description: Umm... Let's dive a bit more deeper.
+description: うーん... もう少し深く掘り下げてみましょう。
 ---
 
 # 何から始めればいいの？ 🤷‍♀️

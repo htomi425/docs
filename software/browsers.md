@@ -1,5 +1,5 @@
 ---
-description: "Where the web lives...\U0001F30D"
+description: "ウェブ上では...\U0001F30D"
 ---
 
 # ブラウザー
@@ -11,7 +11,7 @@ If you are having any **armv7 based device** browsers might fail to work due to 
 {% endhint %}
 
 {% hint style="danger" %}
-## All the commands should be executed after starting Linux
+## コマンドは必ずLinuxを起動した後に実行してください。
 {% endhint %}
 
 ## Firefox
@@ -37,7 +37,7 @@ xbps-install -S firefox
 ### Alpine
 
 {% hint style="danger" %}
-Sadly Alpine does not provide Firefox support for ARM devices as or now.
+残念な事に、AlpineはARMデバイスのFirefoxサポートを提供していません。
 {% endhint %}
 
 ![](../.gitbook/assets/chrome_banner.png)
@@ -64,7 +64,7 @@ pacman -S chromium --noconfirm
 ### Void Linux
 
 {% hint style="danger" %}
-Sadly chromium is not available for Void Linux.
+残念ながらChromiumはVoid Linuxでは利用できません。
 {% endhint %}
 
 ### Alpine

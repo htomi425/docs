@@ -1,5 +1,5 @@
 ---
-description: "Let's rock with the music! \U0001F3B8"
+description: "音楽を楽しもう! \U0001F3B8"
 ---
 
 # サウンド 🎵

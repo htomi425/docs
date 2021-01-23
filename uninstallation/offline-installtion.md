@@ -1,5 +1,5 @@
 ---
-description: Let's learn how to uninstall your distro after you're done using it.
+description: ディストリビューションを使用後にアンインストールする方法を学びましょう。
 ---
 
 # アンインストール手順

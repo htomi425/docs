@@ -7,14 +7,14 @@ description: "Brush your 3D modelling skills with Blender on Andronix \U0001F4FD
 ![](../.gitbook/assets/blender_banner.png)
 
 {% hint style="danger" %}
-Blender will only work for very basic animation. Please use this keeping in your mind that you're using an Android device.
+Blenderは非常に基本的なアニメーションしか動作しません。Android端末を使用している事を念頭に置いてご利用ください。
 {% endhint %}
 
 You can install Blender to fulfil all your 3D modelling needs as follows-
 
 ## APT
 
-* Just paste this after starting the distro
+* ディストリビューションを起動した後に貼り付けてください
 
 ```text
 sudo apt-get update
@@ -23,7 +23,7 @@ sudo apt-get install blender
 
 ## PACMAN
 
-* Just paste this after starting the distro
+* ディストリビューションを起動した後に貼り付けてください
 
 ```text
 sudo pacman -Syu
@@ -34,7 +34,7 @@ If you don't want to build form the AUR, you can use [this ](https://gist.github
 
 ## YUM \| DNF
 
-* Just paste this after starting the distro
+* ディストリビューションを起動した後に貼り付けてください
 
 ```text
 sudo dnf update
